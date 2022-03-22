@@ -9,8 +9,7 @@
 {
 
 
-System.out.println(New.a);	//you can not aceess non static varriable from static context.
-
+System.out.println(New.a);	//non-static variable a cannot be referenced from a static context
 
 
   System.out.println("in Test class");
